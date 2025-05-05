@@ -54,11 +54,12 @@ Place your menu data in `src/data/menu.json`:
     "image": "pancakes.jpg"
   }
 ]
+```
 
 ---
 
 **## 📝 Submission**
-	•	Push your code to a public GitHub repository.
-	•	Provide a live demo URL (Netlify, Vercel, etc.). (Optional)
-	•	Submit the link to the repo with instructiosn to run it to use once you have it.
-	•	If you have any questions please reach out to us :).
+- Push your code to a public GitHub repository.
+- Provide a live demo URL (Netlify, Vercel, etc.). (Optional)
+- Submit the link to the repo with instructiosn to run it to use once you have it.
+- If you have any questions please reach out to us :).
