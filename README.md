@@ -39,16 +39,18 @@ Place your menu data in `src/data/menu.json`:
     "id": 1,
     "name": "Avocado Toast",
     "price": 8.99,
-    "category": "Toast",
+    "category": "Pastries",
     "icon": "🥑",
+    "icon-name": "avocado",
     "image": "avocado-toast.jpg"
   },
   {
     "id": 2,
     "name": "Pancakes",
     "price": 7.49,
-    "category": "Pancakes",
+    "category": "Pastries",
     "icon": "🥞",
+    "icon-name": "pancake",
     "image": "pancakes.jpg"
   }
 ]
